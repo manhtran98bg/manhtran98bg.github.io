@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Lato|Raleway|Rouge+Script");
+@import url("https://fonts.googleapis.com/css?family=Lato|Raleway|Rouge+Script|Dancing+Script");
 .has-vertically-aligned-content {
   display: flex;
   flex-direction: column;
@@ -50,7 +50,7 @@ html {
 
 
 .hero .title {
-  font-family: 'Rouge Script', sans-serif;
+  font-family: 'Dancing Script', sans-serif;
   font-weight: 700;
   transform: rotate(-2deg);
   font-size: 5rem;
@@ -61,7 +61,7 @@ html {
 .hero .subtitle {
   padding: 35px;
   color: whitesmoke;
-  font-size: 1.3rem;
+  font-size: 4rem;
 }
 
 .hero .tempatwaktu {
@@ -298,7 +298,7 @@ html {
 }
 
 .nama-lengkap {
-  font-family: 'Rouge Script', sans-serif;
+  font-family: 'Dancing Script', sans-serif;
   color: #996E6D;
   font-size: 3.5rem;
   letter-spacing: 0px;
@@ -308,7 +308,7 @@ html {
 
 .ampersand {
 font-size: 5rem;
-font-family: 'Rouge Script', sans-serif;
+font-family: 'Dancing Script', sans-serif;
 color: #996E6D;
 line-height: 5rem;
 display: inline-block;
