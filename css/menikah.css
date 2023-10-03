@@ -1,4 +1,10 @@
-@import url("https://fonts.googleapis.com/css?family=Lato|Raleway|Rouge+Script|Dancing+Script");
+@import url("https://fonts.googleapis.com/css?family=Lato|Raleway|Rouge+Script|Dancing+Script|Roboto+Slab");
+
+@font-face {
+  font-family: 'MyCustomFont'; /* Tên font bạn muốn sử dụng */
+  src: url('../font/Adelio\ Darmanto\ Font\ by\ Keithzo\ \(7NTypes\).otf') format('truetype'); /* Đường dẫn đến tệp font */
+}
+
 .has-vertically-aligned-content {
   display: flex;
   flex-direction: column;
@@ -19,6 +25,10 @@ html {
   padding-bottom: 30px;
 }
 
+.location {
+  font-size: 22px; /* Change to the desired font-size */
+  font-weight: bold; /* Change to the desired font-weight */
+}
 .navbar-item {
   line-height: 38px;
   font-weight: 600;
@@ -52,7 +62,7 @@ html {
   font-family: 'Dancing Script', sans-serif;
   font-weight: 700;
   transform: rotate(-2deg);
-  font-size: 5rem;
+  font-size: 6rem;
   padding-bottom: 5px;
   color: whitesmoke;
 }
@@ -608,7 +618,6 @@ body.preloader-site {
   min-height: 44rem;
   min-width: 24rem;
 }
-
 
 .foto6 {
   background-image:  url("../myimage/7.jpg");
