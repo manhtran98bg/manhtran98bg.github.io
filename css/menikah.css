@@ -456,7 +456,7 @@ body.preloader-site {
 }
 
 
-.btn-whatsapp:hover {
+.btn-google:hover {
   color: white;
   background-color: #59a543;
   font-size: 1.2rem;
@@ -469,7 +469,7 @@ body.preloader-site {
 }
 
 
-.btn-whatsapp {
+.btn-google {
   background-color: #6cc751;
   width:  210px;
   height: 65px;
@@ -564,86 +564,86 @@ body.preloader-site {
 
 
 .foto1 {
-  background-image:  url("../myimage/1.jpg");
+  background-image:  url("../myimage/_1.jpg");
   background-size: cover;
   background-position: left;
   background-repeat:no-repeat;
-  min-height: 44rem;
+  min-height: 34rem;
   min-width: 14rem;
 }
 
 
 .foto2 {
-  background-image:  url("../myimage/2.jpg");
+  background-image:  url("../myimage/_2.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 44rem;
+  min-height: 34rem;
   min-width: 14rem;
 }
 
 .foto3 {
-  background-image:  url("../myimage/3.jpg");
+  background-image:  url("../myimage/_3.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 44rem;
+  min-height: 34rem;
   min-width: 14rem;
 }
 
 .foto4 {
-  background-image:  url("../myimage/4.jpg");
+  background-image:  url("../myimage/_4.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 44rem;
+  min-height: 34rem;
   min-width: 14rem;
 }
 
 .foto5 {
-  background-image:  url("../myimage/5.jpg");
+  background-image:  url("../myimage/_5.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 44rem;
+  min-height: 34rem;
   min-width: 14rem;
 }
 
 
 .foto6 {
-  background-image:  url("../myimage/6.jpg");
+  background-image:  url("../myimage/_6.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 44rem;
+  min-height: 34rem;
   min-width: 14rem;
 }
 
 .foto7 {
-  background-image:  url("../myimage/7.jpg");
+  background-image:  url("../myimage/_7.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 44rem;
+  min-height: 34rem;
   min-width: 14rem;
 }
 
 .foto8 {
-  background-image:  url("../myimage/8.jpg");
+  background-image:  url("../myimage/_8.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 44rem;
+  min-height: 34rem;
   min-width: 14rem;
 }
 
 
 .foto9 {
-  background-image:  url("../myimage/9.jpg");
+  background-image:  url("../myimage/_9.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 44rem;
+  min-height: 34rem;
   min-width: 14rem;
 }
 
