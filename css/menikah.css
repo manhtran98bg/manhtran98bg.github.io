@@ -389,7 +389,7 @@ vertical-align: middle;
 }
 
 .logo {
-  margin: 20px;
+  margin: -60px;
   display: inline-block;
   max-height: 450px;
   vertical-align: middle;
@@ -564,7 +564,7 @@ body.preloader-site {
 
 
 .foto1 {
-  background-image:  url("../myimage/_1.jpg");
+  background-image:  url("../myimage/1.jpg");
   background-size: cover;
   background-position: left;
   background-repeat:no-repeat;
@@ -574,7 +574,7 @@ body.preloader-site {
 
 
 .foto2 {
-  background-image:  url("../myimage/_2.jpg");
+  background-image:  url("../myimage/2.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -583,7 +583,7 @@ body.preloader-site {
 }
 
 .foto3 {
-  background-image:  url("../myimage/_3.jpg");
+  background-image:  url("../myimage/3.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -592,7 +592,7 @@ body.preloader-site {
 }
 
 .foto4 {
-  background-image:  url("../myimage/_4.jpg");
+  background-image:  url("../myimage/4.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -601,7 +601,7 @@ body.preloader-site {
 }
 
 .foto5 {
-  background-image:  url("../myimage/_5.jpg");
+  background-image:  url("../myimage/5.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -611,7 +611,7 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image:  url("../myimage/_6.jpg");
+  background-image:  url("../myimage/6.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -620,7 +620,7 @@ body.preloader-site {
 }
 
 .foto7 {
-  background-image:  url("../myimage/_7.jpg");
+  background-image:  url("../myimage/7.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -629,7 +629,7 @@ body.preloader-site {
 }
 
 .foto8 {
-  background-image:  url("../myimage/_8.jpg");
+  background-image:  url("../myimage/8.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -639,7 +639,7 @@ body.preloader-site {
 
 
 .foto9 {
-  background-image:  url("../myimage/_9.jpg");
+  background-image:  url("../myimage/9.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
